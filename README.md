@@ -15,7 +15,6 @@ Why I Have Tested Our Packer on Quick Heal?  Because Quick Heal is Strong antivi
 
 If you have a question mark in your mind, you can contact me telegram : @edgeguard
 
-This video is for educational purpose only.
 -------------------------------------------------------------------
 This Tool is Designed To Protect Your Files
 Against Reverse-Engineers.
