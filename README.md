@@ -13,7 +13,7 @@ Why I Have Tested Our Packer on Quick Heal?  Because Quick Heal is Strong antivi
 - Output : Fully Native
 - Features : This is packer so what you expect?
 
-If you have a question mark in your mind, you can contact me telegram : @EGuardDeveloper
+If you have a question mark in your mind, you can contact me telegram : @edgeguard
 
 -------------------------------------------------------------------
 This Tool is Designed To Protect Your Files
